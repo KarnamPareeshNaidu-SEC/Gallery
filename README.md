@@ -23,7 +23,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
-    
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,6 +143,7 @@ Publish the website in the given URL.
     </script>
 </body>
 </html>
+~~~
 # OUTPUT:
 <img width="1031" height="610" alt="image" src="https://github.com/user-attachments/assets/795aa74c-d0a3-42a5-8c85-1b0bc29e6721" />
 <img width="1019" height="616" alt="image" src="https://github.com/user-attachments/assets/e63a0efc-065c-491e-8226-47b5378ea127" />
